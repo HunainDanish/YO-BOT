@@ -95,6 +95,6 @@ cd frontend && npx vercel --prod
 | GET | `/api/models` | Available models |
 | POST | `/api/chat` | Stream chat (SSE) |
 
-## License
+## Video Link
 
-MIT
+[Demonstration video](https://drive.google.com/file/d/1oGiLO20csNg4dlozfyOTn022dt9EnY31/view?usp=sharing)
